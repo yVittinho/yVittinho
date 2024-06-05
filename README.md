@@ -7,21 +7,6 @@
 
 é um prazer receber sua visita no meu perfil! 😄
 
-## 🗂 My Repositories
-<div align="center">
-
-  <a href="https://github.com/yVittinho/dio-lab-open-source">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yVittinho&repo=dio-lab-open-source&show_owner=true&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=FFF&theme=blue_navy&text_color=FFF" width="333" />
-  </a> 
-  <a href="https://github.com/yVittinho/Task-Marker">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yVittinho&repo=Task-Marker&show_owner=true&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=FFF&theme=blue_navy&text_color=FFF" width="333"/>
-  </a> 
-  <a href="https://github.com/yVittinho/LandingPage_OptimusTech">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yVittinho&repo=LandingPage_OptimusTech&show_owner=true&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=FFF&theme=blue_navy&text_color=FFF" width="333"/>
-  </a>
-
-</div>
-
 
 ## 📊 Stats
 
