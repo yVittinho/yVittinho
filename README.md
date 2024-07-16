@@ -1,7 +1,7 @@
 # Welcome to my Github profile! 🖐🏼
 
 ## 🏷 About Me
-  Olá, Me chamo **Victtor Marcelo**, atualmente tenho 18 anos e estou estudando para se tornar um **Dev FullStack**. 
+  Olá, Me chamo **Victtor Marcelo**, atualmente tenho 18 anos e estou estudando para se tornar um **Front end web developer**. 
 
   Sou uma pessoa completamente apaixonada por **Tecnologia e Design** desde mais novo e agora com muita coragem, estou mergulhando profundamente nesse mundo novo. Desejo evoluir não só como Desenvolvedor, mas também como pessoa durante essa jornada e espero encontrar pessoas iguais á mim por aqui. 
 
@@ -37,7 +37,7 @@
 
   - Studying
 
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 ### 📚 Frameworks & Librarys
   - Experiencies
@@ -46,7 +46,7 @@
 
   - Studying
 
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoSize=auto&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117"> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoSize=auto&logoColor=61DAFB"> <img src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117"> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
 
 
 
