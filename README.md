@@ -11,9 +11,9 @@
 ## 📊 Stats
 
 
- <div display="flex">
+ <div align="center">
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yVittinho&theme=blue_navy&text_color=FFF" height="250"> <img src="https://github-readme-stats.vercel.app/api?username=yVittinho&show_icons=true&icon_color=FFF&count_private=true&theme=blue_navy" height="250">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yVittinho&theme=blue_navy&text_color=FFF" max-width="275" height="250"> <img src="https://github-readme-stats.vercel.app/api?username=yVittinho&show_icons=true&icon_color=FFF&count_private=true&theme=blue_navy" max-width="275" height="250">
 
  </div>   
 
