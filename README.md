@@ -1,24 +1,38 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=FFFFFF&width=435&lines=Welcome+to+my+Github+Profile!;I'm+Victtor!;FrontEnd+Developer;Passionate+about+Technology;Passionate+about+Design;Passionate+about+coding)](https://git.io/typing-svg)
+<p align="center">
+  
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=1500&pause=1000&color=FFFFFF&width=600&lines=Welcome+to+my+Github+Profile!++%E2%9C%A8;I'm+Victtor!+%F0%9F%98%84%F0%9F%91%8B%F0%9F%8F%BC;FrontEnd+Developer+;Passionate+about+Technology;Passionate+about+Design;Passionate+about+coding)](https://git.io/typing-svg)
+  
+</p>
 
+## About me
 
-- Analysis and development student at UMC - University of Mogi Das Cruzes
-- FrontEnd development trainning by ONE Program - Oracle Next Education
+- 🎓 Systems Analysis and development student at UMC - University of Mogi Das Cruzes
+- 📚 FrontEnd Development Trainning by ONE Program - Oracle Next Education
 
   <br>
 
-  ## 📊 Stats
+  ## <p align="center"> 📊 My GitHub Stats </p>
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;" align="center"> <br>
+<div align="center">
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yVittinho&theme=blue_navy&text_color=FFF" style=" flex:1 1 37%; max-width: 300px;  margin-bottom: 10px;"> 
-   <img src="https://github-readme-stats.vercel.app/api?username=yVittinho&show_icons=true&icon_color=FFF&count_private=true&theme=blue_navy" style=" flex:1 1 60%;  max-width: 300px; margin-bottom: 10px;">
+<a href=""> 
+   
+   <img src="https://github-readme-stats.vercel.app/api?username=yVittinho&show_icons=true&icon_color=FFF&count_private=true&theme=blue_navy" style=" margin-bottom: 10px;" height="180em">
+   
+</a>
+
+<a href=""> 
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yVittinho&theme=blue_navy&text_color=FFF" style=" margin-bottom: 10px;" height="180em"> 
+    
+</a>
 
  </div> 
   
 
-## Studying at the moment
+## <p align="center"> 📚 Studying at the moment </p>
 
-<div style="display: inline_block"> <br>
+<div style="display: inline_block" align="center"> <br>
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="Logo do HTML5" align="center" height="50" width="50" />    
 
@@ -35,15 +49,16 @@
 </div>
 <br>
 
- ## Contact me
+ ## <p align="center"> 🔗 Contact me </p>
 
 
 <div align="center">
 
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" align="center" height="50" width="50" />
+  <a href="https://www.linkedin.com/in/victtormarcelo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" height="50"  />
+  </a>
 
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" align="center" height="50" width="50"/>        
-  
+  <a href="mailto:victtordesousa1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" height="50"/>        
+  </a>
 </div>
