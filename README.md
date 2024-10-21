@@ -4,7 +4,7 @@
   
 </p>
 
-## About me
+## 🏷️ About me
 
 - 🎓 Systems Analysis and development student at UMC - University of Mogi Das Cruzes
 - 📚 FrontEnd Development Trainning by ONE Program - Oracle Next Education
